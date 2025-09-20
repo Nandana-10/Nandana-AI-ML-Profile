@@ -20,7 +20,7 @@
 - 📍 **Location**: Chennai, India
 - 📧 **Contact**: nandu52120@gmail.com
 - 📱 **Phone**: +91 9352118687
-- 🔬 **Current Focus**: AI/ML projects for MSME initiatives
+- 🔬 **Current Focus**: AI/ML 
 
 ---
 
@@ -30,17 +30,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### AI/ML & Data Science
+### AI/ML
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Pytorch-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-learn-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
