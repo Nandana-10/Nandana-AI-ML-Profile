@@ -105,7 +105,8 @@
 | 🚀 **Young Professional Program** | TCS iON Career Edge | ✅ Certified |
 | 🗄️ **Oracle Certified Foundation Associate** | Oracle University | ✅ Certified |
 | 🐍 **Data Analytics with Python** | NPTEL | ✅ Completed |
-|  🏅** Geodata Processing using Python and Machine Learning** | ISRO | ✅ Completed |
+| 🏅**Geodata Processing using Python and Machine Learning** | ISRO | ✅ Completed |
+| ⚡**Basic Java** | Hacker Rank | ✅ Completed |
 
 </div>
 
